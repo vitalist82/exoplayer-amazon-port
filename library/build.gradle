@@ -101,6 +101,3 @@ publish {
     website = releaseWebsite
 }
 
-javadoc {
-    failOnError = false
-}
