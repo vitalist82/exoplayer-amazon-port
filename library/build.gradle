@@ -100,3 +100,7 @@ publish {
     version = releaseVersion
     website = releaseWebsite
 }
+
+javadoc {
+    failOnError = false
+}
